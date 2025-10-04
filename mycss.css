@@ -9,15 +9,15 @@ body {
 }
 
 #IvaC {
-  background-color: lightcoral;
-  font-family: serif;
-  color: black;
-}
-
-#IvaS {
   background-color: initial;
   font-family: initial;
   color: initial;
+}
+
+#IvaS {
+  background-color: lightcoral;
+  font-family: initial;
+  color: black;
 }
 
 #KaterinaV {
